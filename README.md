@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/pmikeola/Michael_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Project 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Physical activity monitoring
 
-### Markdown
+Created a tool that  monitor Physical activity in wearable computing research.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+collected publibly available data  PAMAP2 Physical Activity Monitoring dataset.
 
-```markdown
-Syntax highlighted code block
+Datasets include the  measurements made by wireless sensors worn by 9 subjects as they performed various physical activities over time such as running, standing, or cycle. 
 
-# Header 1
-## Header 2
-### Header 3
+The  goal for this analysis is to build a model that can predict the given task a subject is performing based on a given measurement.
 
-- Bulleted
-- List
+We performed Data preparation, cleaning, and exploration, is about making sure our data are ready for analysis; Which include dealing missing value denoted with 'NAN' as a result of Missing sensory data due to wireless data dropping. Also we performed Exploratory Data Analysis to help us better investigate our data set discover patterns and detect anomalies to help us formualte and test our hypothesis.Also, this section illustrates how to visualize data.
 
-1. Numbered
-2. List
+We fomulated and tested Hypothesis using statistical theories.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmikeola/Michael_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ We built both clasification and regression model using both  Linear Regression and Logistics Regression.
+  
