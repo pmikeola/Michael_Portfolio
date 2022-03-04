@@ -3,6 +3,9 @@
 
 ## [Physical activity monitoring](file:///Users/michaelolanipekun/Downloads/DataScienceRM_Report2.html)
 
+
+![image1](image.jpg)
+
 Created a tool that  monitor Physical activity in wearable computing research.
 
 collected publibly available data  PAMAP2 Physical Activity Monitoring dataset.
