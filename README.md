@@ -4,7 +4,7 @@
 ## [Physical activity monitoring](file:///Users/michaelolanipekun/Downloads/DataScienceRM_Report2.html)
 
 
-![image1](image.jpg)
+![image1](physicalActivity.png)
 
 Created a tool that  monitor Physical activity in wearable computing research.
 
