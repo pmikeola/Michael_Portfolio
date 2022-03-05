@@ -26,4 +26,4 @@ The dashboard reveals the breakdown of world co2 emission by country and more im
 You can use the map to select a country or a group of countries then see how their co2 emission has changed over time.
 
 
-![image2](dashboardCo2.png.png)
+![image2](dashboardCo2.png)
