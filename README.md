@@ -22,13 +22,8 @@ We fomulated and tested Hypothesis using statistical theories.
   
  #Project 2
  
- I have prepared a visualisation for 140 locations and newly opened stores in 10 new cities locations and have identified the best investment MKT opt.
+The dashboard reveals the breakdown of world co2 emission by country and more importantly the per capita co2 emission by each country. It uses the data from the World Bank's Carbon Dioxide Information Analysis Center.
+You can use the map to select a country or a group of countries then see how their co2 emission has changed over time.
 
-The data source was provided by kaggle, however I have cleaned and completed the dataset with other information from open sources.
 
-The main goal of the project is to determine the best location for future investments.
-
-After all necessary steps of data cleaning (I had to deal with a lot of missing values) I did some EDA to determine which variables can be useful in my project.
-
-I chose this algorithm just because of my personal experience with it, but keep in mind that I am 100% sure that other models will work just as good (and probably better).
-
+![image2](Dashboard 2.png)
